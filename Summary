@@ -1,0 +1,12 @@
+#Overview
+During this project filteres were created to allow for eaiser parsing of UFO Siting data. These filters were designed to allow the use to drill down on sitings with the following parameters: Date, City, State, Country, Shap, Duration and shows the reporters addtional comments.
+
+##Instructions for Use
+
+###Summary 
+  #Drawbacks
+  The user interface for this search tool isn't the most friendly and could be confusing to some users. 
+  
+  #Improvements
+  Dropdowns would make the search inputs much easier to navigate and allow users to avoid putting in erroneous inputs. Also a search button that would submit the 5 filter inputs simultaneously would simplify the process.
+  
